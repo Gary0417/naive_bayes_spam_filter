@@ -17,7 +17,7 @@
 - removed duplicates from the vocabulary
 
 ## Model Building
-Below are the steps I took to build the model
+Below are the steps I took to build the model:
 - Calculated the probability of finding a word in the spam/ham SMS
 - Multiplied all the word probabilities together
 - Used Naive Bayes to classify an SMS as spam
